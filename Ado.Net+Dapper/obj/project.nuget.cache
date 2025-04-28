@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6L3x+0bZpQ=",
+  "dgSpecHash": "rJ8qXqwCT2o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

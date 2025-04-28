@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj": {}
+    "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj": {
+    "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj",
         "projectName": "Ado.Net+Dapper",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net+Dapper\\Ado.Net+Dapper.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Ado.Net+Dapper\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net+Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

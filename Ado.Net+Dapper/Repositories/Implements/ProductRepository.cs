@@ -29,14 +29,15 @@ public class ProductRepository : IRepository<Product>
     public List<Product> GetAll()
     {
         using var db = _connection;
-        var products= db.Query<Product>("Select * From Products").ToList();
-        products.ForEach(p => Console.WriteLine($"{p.Id} - {p.Name} - {p.Price} AZN"));
+        var products= db.Query<Product>(
+            @"Select p.Id, p.Name, p.Price, p.CategoryId, c.Name as CategoryName From Products p Join Categorys c On p.CategoryId=c.Id").ToList();
         return products;
     }
     public Product GetById(int id)
     {
         using var db = _connection;
-        var product = db.QueryFirstOrDefault<Product>("SELECT * FROM Products WHERE Id=@id", new { id });
+        var product = db.QueryFirstOrDefault<Product>(@"SELECT p.Id, p.Name, p.Price, p.CategoryId, c.Name as CategoryName
+                    FROM Products p JOIN Categorys c ON p.CategoryId = c.Id WHERE p.Id = @Id", new { Id=id });
         if (product == null)
         {
             Console.WriteLine("Heç bir mehsul tapilmadi");
@@ -51,7 +52,7 @@ public class ProductRepository : IRepository<Product>
     {
         using (_connection)
         {
-            _connection.Execute($"UPDATE Products SET Name=@Name, Price=@Price", model);
+            _connection.Execute($"UPDATE Products SET Name=@Name, Price=@Price, CategoryId = @CategoryId Where Id=@Id", new { Name = model.Name, Price = model.Price, Id = id, CategoryId= model.CategoryId});
         }
     }
 }

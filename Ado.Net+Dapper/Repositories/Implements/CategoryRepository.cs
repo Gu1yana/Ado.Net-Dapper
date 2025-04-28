@@ -12,7 +12,6 @@ using System.Threading.Tasks;
 using static Dapper.SqlMapper;
 
 namespace Ado.Net_Dapper.Repositories.Implements;
-
 public class CategoryRepository : IRepository<Category>
 {
     private SqlConnection _connection { get => new(ConnectionStrings.connStr); }
@@ -30,7 +29,6 @@ public class CategoryRepository : IRepository<Category>
             db.Execute("DELETE FROM Categorys WHERE Id = @Id", new { Id = id });
         }
     }
-
     public List<Category> GetAll()
     {
         using var db = _connection;
@@ -41,22 +39,18 @@ public class CategoryRepository : IRepository<Category>
     public Category GetById(int id)
     {
         using var db = _connection;
-        var category = db.QueryFirstOrDefault<Category>("SELECT * FROM Categorys WHERE Id=@id", new { id });
+        var category = db.QueryFirstOrDefault<Category>("SELECT * FROM Categorys WHERE Id=@id", new {id});
         if (category == null)
         {
-            Console.WriteLine("Heç bir kateqoriya tapilmadi");
-        }
-        else
-        {
-            Console.WriteLine($"Kateqoriya tapildi: {category.Name}");
+            throw new Exception("Bele bir Id-e sahib kateqoriya yoxdur!!!");
         }
         return category;
     }
-
     public void Update(int id, Category model)
     {
-
-
-
+        using (_connection)
+        {
+            _connection.Execute($"UPDATE Categorys SET Name=@Name Where Id=@Id", new { Name = model.Name, Id = id });
+        }
     }
 }
