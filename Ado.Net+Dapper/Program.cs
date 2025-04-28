@@ -51,6 +51,18 @@ namespace Ado.Net_Dapper
                             UpdateCategoryShortCut(categoryrepository);
                             break;
                         case 8:
+                            categoryrepository.GetAll();
+                            Console.WriteLine("Silmek istediyiniz kateqoriyanin Id-ni daxil edin:");
+                            int deletCateg=int.Parse(Console.ReadLine());
+                            try
+                            {
+                                categoryrepository.Delete(deletCateg);
+                                Console.WriteLine("Kateqoriya ugurla silindi");
+                            }
+                            catch
+                            {
+                                throw new DontEmptyCategoryEcxception("Bu kateqoriyada mehsul var, siline bilmez!!!");
+                            }
                             break;
                         case 9:
                             categoryrepository.GetAll();

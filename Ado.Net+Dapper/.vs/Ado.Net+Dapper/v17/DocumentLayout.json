@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\repositories\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:repositories\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\categoryalreadyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\categoryalreadyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\emptyproductnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\emptyproductnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\invalidchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\invalidchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\emptycategorynameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\emptycategorynameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\emptyproductnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\emptyproductnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\exceptions\\categoryalreadyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:exceptions\\categoryalreadyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\repositories\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|solutionrelative:repositories\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8CECFC0-CF87-4854-9330-AEF4C881BCC7}|Ado.Net\u002BDapper.csproj|c:\\users\\user\\desktop\\dappertask\\ado.net\u002Bdapper\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwD0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T15:25:49.892Z",
               "IsPinned": true,
@@ -80,7 +80,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "EmptyProductNameException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyProductNameException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\EmptyProductNameException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyProductNameException.cs",
+              "RelativeToolTip": "Exceptions\\EmptyProductNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:03:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\CategoryNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\CategoryNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\CategoryNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\CategoryNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:02:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmptyCategoryNameException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyCategoryNameException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\EmptyCategoryNameException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyCategoryNameException.cs",
+              "RelativeToolTip": "Exceptions\\EmptyCategoryNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:02:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InvalidChoiceException.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\InvalidChoiceException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidChoiceException.cs",
@@ -106,33 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Abstracts\\IRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Abstracts\\IRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Abstracts\\IRepository.cs",
-              "RelativeToolTip": "Repositories\\Abstracts\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:32:49.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Implements\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Implements\\CategoryRepository.cs",
               "RelativeToolTip": "Repositories\\Implements\\CategoryRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T16:45:36.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Implements\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\ProductRepository.cs",
@@ -140,47 +166,19 @@
               "RelativeToolTip": "Repositories\\Implements\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvycAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:45:22.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\CategoryNotFoundException.cs",
-              "RelativeDocumentMoniker": "Exceptions\\CategoryNotFoundException.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\CategoryNotFoundException.cs",
-              "RelativeToolTip": "Exceptions\\CategoryNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:02:33.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmptyCategoryNameException.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyCategoryNameException.cs",
-              "RelativeDocumentMoniker": "Exceptions\\EmptyCategoryNameException.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyCategoryNameException.cs",
-              "RelativeToolTip": "Exceptions\\EmptyCategoryNameException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:02:38.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T16:45:22.713Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EmptyProductNameException.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyProductNameException.cs",
-              "RelativeDocumentMoniker": "Exceptions\\EmptyProductNameException.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Exceptions\\EmptyProductNameException.cs",
-              "RelativeToolTip": "Exceptions\\EmptyProductNameException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Abstracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DapperTask\\Ado.Net\u002BDapper\\Repositories\\Abstracts\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:03:34.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T15:32:49.942Z"
             },
             {
               "$type": "Document",
@@ -192,8 +190,7 @@
               "RelativeToolTip": "Constants\\ConnectionStrings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:35:49.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T16:35:49.508Z"
             },
             {
               "$type": "Document",
@@ -205,8 +202,7 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:23:13.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T16:23:13.492Z"
             },
             {
               "$type": "Document",
@@ -218,8 +214,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAewBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:22:57.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T16:22:57.575Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "RelativeToolTip": "Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:24:16.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T16:24:16.47Z"
             }
           ]
         }
